@@ -1,0 +1,19 @@
+name: Golems
+author: Askingg
+version: 1.0
+main: me.askingg.golems.Main
+api-version: 1.13
+depend: [Vault]
+description: Custom Golems Plugin
+
+commands:
+  Golems:
+   description: View the help list
+  Golems Dev:
+   description: View the developer
+  Golems Shop:
+   description: Open the shop
+  Golems List:
+   description: View the golem types
+  Golems Give:
+   description: Give a player spawner(s)
